@@ -1,2 +1,2 @@
 # encrypt-decrypt-tools
-A suite of custom tools for encryption and decryption with menu and help.
+A suite of custom tools for encoding and decoding data with menu and help.
